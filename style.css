@@ -37,7 +37,9 @@ p{
     
 }
 #contract-info{
-    background: url(images/exp-bg.png);
+    background: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
     
 
 }
