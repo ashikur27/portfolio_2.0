@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.name-color{
+    color: orange;
+}
+.half-width{
+    float: left;
+    width: 45%;
+    
+}
+section
+{
+    height: 500px;
+    margin-bottom: 100px;
+  
+}
+img{
+    width: 110%;
+}
+.button-text{
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+#top-banner{
+    background: url(images/top-banner.png);
+
+}
+p{
+    color: dimgray;
+    width: 95%;
+    padding-left: 18px;
+    
+}
+#contract-info{
+    background: url(images/exp-bg.png);
+    
+
+}
+h1
+{
+    padding-left: 18px;
+}
+h2{
+    padding-left: 18px;
+}
+footer{
+    text-align: center;
+}
